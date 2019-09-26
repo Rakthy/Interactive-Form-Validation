@@ -15,9 +15,8 @@ $("#design option")
   .eq(0)
   .hide();
 
-$("#color").hide();
 
-// $("#color").prepend("<option>Please select a T-shirt theme</option>");
+$("#color").prepend("<option>Please select a T-shirt theme</option>");
 
 $("#design").change(() => {
   if ($("#design").val() === "js puns") {
