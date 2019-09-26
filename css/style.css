@@ -19,14 +19,14 @@ body {
   color: rgba(6, 49, 68, 0.9);
   background-image: linear-gradient(
     to bottom right,
-    rgba(33, 147, 176, .2), rgba(109, 213, 237, .2)
+#4ca1af , #c4e0e5
 
   );
 }
 
 header {
   text-align: center;
-  color: black;
+    color: white;
 }
 
 h1 {
@@ -46,7 +46,7 @@ a {
 form {
   padding: 0.875em 1.875em 1.875em;
   background: white;
-  border-radius: 10px;
+  border-radius: 5px;
   margin-bottom: 8em;
 }
 
